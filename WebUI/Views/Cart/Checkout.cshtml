@@ -1,0 +1,57 @@
+﻿@model Domain.Entities.ShippingDetails
+
+@{
+    ViewBag.Title = "BookStore: форма заказа";
+}
+
+<h2>Оформити замовлення</h2>
+<p>Укажіть ваші контактні дані.</p>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary();
+    <h3>Дані</h3>
+    <div class="form-group">
+        <label>Ваше ім'я:</label>
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    </div>
+
+    <h3>Адреса доставки</h3>
+    <div class="form-group">
+        <label>Країна:</label>
+        @Html.TextBoxFor(x => x.Country, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Місто:</label>
+        @Html.TextBoxFor(x => x.City, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Вулиця та будинок:</label>
+        @Html.TextBoxFor(x => x.Line1, new { @class = "form-control" })
+    </div>
+    <!--foreach (var property in ViewData.ModelMetadata.Properties)
+    {
+        if (property.PropertyName != "Name" && property.PropertyName != "GiftWrap")
+        {-->
+    @*<div class="form-group">
+            <label>
+                @(property.DisplayName ?? property.PropertyName)
+            </label>
+            @Html.TextBox(property.PropertyName, null, new { @class = "form-control" })
+        </div>*@
+    <!--}
+    }-->
+
+    <h3>Опції</h3>
+    <div class="form-group">
+        <label>
+            @Html.EditorFor(x => x.GiftWrap)
+            Використовувати подарункову упаковку?
+        </label>
+    </div>
+
+    <div class="text-center">
+        <input class="btn btn-primary" type="submit" value="Замовити!" />
+    </div>
+}
+
