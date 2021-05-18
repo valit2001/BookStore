@@ -68,3 +68,40 @@ E:\BookStore — Part7\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
 E:\BookStore — Part7\WebUI\obj\Debug\WebUI.csproj.CopyComplete
 E:\BookStore — Part7\WebUI\obj\Debug\WebUI.dll
 E:\BookStore — Part7\WebUI\obj\Debug\WebUI.pdb
+E:\BookStore\BookStore\WebUI\bin\WebUI.dll.config
+E:\BookStore\BookStore\WebUI\bin\WebUI.dll
+E:\BookStore\BookStore\WebUI\bin\WebUI.pdb
+E:\BookStore\BookStore\WebUI\bin\Domain.dll
+E:\BookStore\BookStore\WebUI\bin\EntityFramework.dll
+E:\BookStore\BookStore\WebUI\bin\EntityFramework.SqlServer.dll
+E:\BookStore\BookStore\WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\BookStore\BookStore\WebUI\bin\Moq.dll
+E:\BookStore\BookStore\WebUI\bin\Ninject.dll
+E:\BookStore\BookStore\WebUI\bin\Ninject.Web.Common.dll
+E:\BookStore\BookStore\WebUI\bin\Ninject.Web.Mvc.dll
+E:\BookStore\BookStore\WebUI\bin\System.Web.Helpers.dll
+E:\BookStore\BookStore\WebUI\bin\System.Web.Mvc.dll
+E:\BookStore\BookStore\WebUI\bin\System.Web.Razor.dll
+E:\BookStore\BookStore\WebUI\bin\System.Web.Webpages.Deployment.dll
+E:\BookStore\BookStore\WebUI\bin\System.Web.Webpages.dll
+E:\BookStore\BookStore\WebUI\bin\System.Web.Webpages.Razor.dll
+E:\BookStore\BookStore\WebUI\bin\WebActivatorEx.dll
+E:\BookStore\BookStore\WebUI\bin\Domain.pdb
+E:\BookStore\BookStore\WebUI\bin\Domain.dll.config
+E:\BookStore\BookStore\WebUI\bin\EntityFramework.xml
+E:\BookStore\BookStore\WebUI\bin\EntityFramework.SqlServer.xml
+E:\BookStore\BookStore\WebUI\bin\Moq.xml
+E:\BookStore\BookStore\WebUI\bin\Ninject.xml
+E:\BookStore\BookStore\WebUI\bin\Ninject.Web.Common.xml
+E:\BookStore\BookStore\WebUI\bin\Ninject.Web.Mvc.xml
+E:\BookStore\BookStore\WebUI\bin\System.Web.Razor.xml
+E:\BookStore\BookStore\WebUI\bin\System.Web.Webpages.xml
+E:\BookStore\BookStore\WebUI\bin\System.Web.Webpages.Deployment.xml
+E:\BookStore\BookStore\WebUI\bin\System.Web.Webpages.Razor.xml
+E:\BookStore\BookStore\WebUI\bin\System.Web.Helpers.xml
+E:\BookStore\BookStore\WebUI\bin\System.Web.Mvc.xml
+E:\BookStore\BookStore\WebUI\obj\Debug\WebUI.csprojAssemblyReference.cache
+E:\BookStore\BookStore\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+E:\BookStore\BookStore\WebUI\obj\Debug\WebUI.csproj.CopyComplete
+E:\BookStore\BookStore\WebUI\obj\Debug\WebUI.dll
+E:\BookStore\BookStore\WebUI\obj\Debug\WebUI.pdb
